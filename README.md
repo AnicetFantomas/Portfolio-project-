@@ -16,15 +16,12 @@ Authors
 
 👤 Author1
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
+GitHub: https://github.com/anicetFantomas
 
 👤 Author2
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
+GitHub: https://github.com/anicetFantomas
+LinkedIn: https://www.linkedin.com/in/anicet-murhula-13a1b0220/
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
