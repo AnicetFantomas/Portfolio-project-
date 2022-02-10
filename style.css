@@ -10,10 +10,12 @@ body{
 }
 
 .container{
-    width: 400px;
-    background-color: #0e0101;
-    color: rgb(221, 210, 210);
+    width: 100%;
+    max-width: 400px;
+    background-color: #2c1616;
+    color: #fff;
     margin: 0 auto;
+    height: 600px;
 }
 
 header{
@@ -22,6 +24,7 @@ header{
     display: flex;
     padding-top: 30px;
     margin-bottom: 100px;
+    padding-bottom: 10px;
 }
 
 .right-side{
@@ -48,6 +51,10 @@ p{
     margin-right : 20px;
 }
 
+a{
+    text-decoration: none;
+    color: white;
+}
 
 h1{
     color: red;
@@ -66,18 +73,19 @@ h2{
 
 .side-img{
     margin-left: 250px;
-    margin-top: -280px;
+    margin-top: -350px;
 }
 
-.footer-images{
-    height: 100px;
+.links{
     padding-top: 30px;
-    margin-left: 20px;
+    margin : 0px 0px 100px 20px;
+    display: flex;
 }
 
 
 #footer-img{
     padding-right: 20px;
+    height: 20px;
 }
 
 .footer1{

@@ -13,11 +13,13 @@ In this project i learnt how to use and to design a website with figmas, how to 
 - css
 
 Authors
+
 👤 Author1
 
 GitHub: @githubhandle
 Twitter: @twitterhandle
 LinkedIn: LinkedIn
+
 👤 Author2
 
 GitHub: @githubhandle
