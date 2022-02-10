@@ -29,6 +29,10 @@ header{
     margin-left: 20px;
 }
 
+section{
+    display: flex;
+    flex-direction: column;
+}
 p{
     font-size: 18px;
     margin-left: 20px;
