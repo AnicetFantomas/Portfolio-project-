@@ -94,7 +94,7 @@ ul {
     margin-left: 20px;
 }
 
-.main-container{
+.work-section{
     height: 100%;
     display: grid;
     justify-content: center;
@@ -108,7 +108,6 @@ ul {
     background-repeat: no-repeat;
     background-size: cover;
     height: 410px;
-
 }
 
 .container00{
@@ -127,6 +126,7 @@ ul {
     font-weight: bold;
     margin-bottom: 40px;
     align-self: center;
+    color:#000;
 }
 
 .img3 img{
@@ -232,7 +232,7 @@ ul {
     margin-bottom: 90px;
 }
 
-.container8{
+.About-Section{
     border: 2px solid black;
     margin-top: 100px;
     background-color: #1c1a19;
