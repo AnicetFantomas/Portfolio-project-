@@ -9,13 +9,9 @@ body{
     width: 100%;
 }
 
-.container{
-    width: 100%;
-    max-width: 450px;
+.wrapper{
     background-color: #1c1a19;
     color: #fff;
-    margin: 0 auto;
-    height: 600px;
 }
 
 header{
@@ -95,3 +91,223 @@ ul {
     padding-top: 20px;
     margin-left: 20px;
 }
+
+.main-container{
+    height: 100%;
+    display: grid;
+    justify-content: center;
+    grid-template-columns : 400px;
+    grid-row-gap : 40px;
+    grid-template-rows: repeat(6, 600px);
+}
+
+.container{
+    background-image: url("./images/Background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 410px;
+
+}
+
+.container00{
+    background: none;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 600px;
+    border: none;
+}
+
+.content-title{
+    font-size: 35px;
+    padding: 40px 0px;
+    border-bottom: 1px solid rgb(182, 150, 150);
+    width: 300px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    align-self: center;
+}
+
+.img3 img{
+    width: 100%;
+}
+.content-title2{
+    font-size: 25px;
+    padding: 20px 0px;
+    font-weight: bold;
+}
+
+.container00 ul li{
+    width: 60px;
+    border: 1px solid rgb(5, 5, 5);
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.container00 ul{
+    margin-left: -9px;
+}
+
+.container ul{
+    margin-left: -9px;
+}
+
+.container1 ul #bootsrap{
+    width: 90px;
+}
+
+.see-project1{
+    width: 120px;
+    border: 1px solid rgb(5, 5, 5);
+    padding: 10px;
+    margin-left: 10px;
+    margin: 20px 0px ;
+    background-color: orange;
+    color: #fff;
+    font-weight: 500;
+}
+
+.container2{
+    margin-top: 120px;
+}
+
+.title-all{
+    font-size: 30px;
+    color: #fff;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.content2{
+    color: rgb(233, 222, 222);
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.container ul li {
+    width: 60px;
+    padding: 10px;
+    margin-left: 10px;
+    background-color: rgba(241, 235, 235, 0.397);
+    color: #fff;
+    font-weight: 500;
+}
+
+.container ul {
+    margin-left: 11px;
+}
+
+.content2{
+    margin-left: 20px;
+}
+
+.content-title2{
+    margin-left: 20px;
+}
+
+.container #bootsrap{
+    width: 90px;
+}
+
+.see-project {
+    width: 100%;
+    border: 1px solid rgb(5, 5, 5);
+    padding: 10px;
+    margin-left: 10px;
+    margin: 20px 0px ;
+    background-color: orange;
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+    padding: 15px;
+    font-size: 17px;
+}
+.container7{
+    margin-bottom: 90px;
+}
+
+.container8{
+    border: 2px solid black;
+    margin-top: 100px;
+    background-color: #1c1a19;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.title8{
+    font-size: 70px;
+    font-weight: bold;
+    align-self: center;
+    padding-top: 50px;
+    color: red;
+}
+
+.languages{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    width: 400px;
+    margin: 0 auto;
+    border-top: 1px solid rgb(151, 143, 143);
+    margin-top: 30px;
+    padding-top: 120px;
+
+}
+
+.languages li{
+    display: flex;
+    width: 400px;
+    border: none;
+}
+
+.para-container8{
+    font-size: 18px;
+    color: #fff;
+    margin-left: 40px;
+}
+
+.get-about{
+    width: 140px;
+    border: 1px solid rgb(5, 5, 5);
+    height: 40px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin: 20px 0px ;
+    background-color: orange;
+    color: #fff;
+    font-weight: 500;
+    margin-left: 40px;
+}
+
+.figma-img{
+    margin-left: 336px;
+    margin-top: -30px;
+}
+
+.lang1{
+    font-size: 30px;
+    padding: 30px;
+    color: #fff;
+}
+
+.lang00{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding-top: 120px;
+}
+
+.lang00 ul li{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    
+}
+
