@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
 *{
     padding: 0;
     margin: 0;
@@ -193,6 +195,10 @@ ul {
     font-weight: 500;
 }
 
+.container5, .containeer6, .contaimer3{
+    margin-top: -90px;
+}
+
 .container ul {
     margin-left: 11px;
 }
@@ -232,6 +238,8 @@ ul {
     background-color: #1c1a19;
     width: 500px;
     margin: 0 auto;
+    display: flex;
+    flex-direction: column;
 }
 
 .title8{
@@ -299,15 +307,16 @@ ul {
     color: #fff;
     width: 400px;
     margin: 0 auto;
-    margin-top: 30px;
-    padding-top: 120px;
 }
 
-.lang00 ul li{
+
+.display{
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: #fff;
-    
+    align-self: center;
 }
 
+.display li{
+    padding: 20px;
+}
