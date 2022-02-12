@@ -1,9 +1,9 @@
-## Portfolio project
+# portfolio-mobile-version
 
 ## Description the project.
 
 ```
-In this project i learnt how to use and to design a website with figmas, how to use them and even created an account of figmq site, I enjoyed too again the use of linters and using git and github in a professional way
+In this project i learnt how to use and to design a website with CSS grid, CSS flex-box how to use them and even had again a chance of using figmma, I enjoyed too again the use of linters and using git and github in a professional way
 
 ```
 
@@ -18,10 +18,9 @@ Authors
 
 GitHub: https://github.com/anicetFantomas
 
-👤 Author2
-
-GitHub: https://github.com/anicetFantomas
 LinkedIn: https://www.linkedin.com/in/anicet-murhula-13a1b0220/
+
+
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
