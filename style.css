@@ -182,6 +182,10 @@ ul, li, a{
     height: 20px;
 }
 
+.lang-dropper{
+    color: #000;
+}
+
 
 .lang{
     width: 350px;
@@ -202,13 +206,14 @@ ul, li, a{
     padding: 4px;
     border-radius: 7px;
     font-weight: bold;
+    color: #000;
 }
 
 .get{
     padding-bottom: 40px;
     border: 2px solid blue;
     height: 45px;
-    width: 190px;
+    width: 150px;
     border-radius: 10px;
     margin: 20px;
     color: rgb(106, 106, 233);
